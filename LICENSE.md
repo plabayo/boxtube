@@ -1,4 +1,4 @@
-Copyright (c) 2021, Plabajo
+Copyright (c) 2021, Glen Henri J. De Cauwsemaecker and Elizabeth C. Gonzales Belsuzarri
 All rights reserved.
 
 Redistribution and use in source and binary forms, with 
@@ -12,7 +12,8 @@ following conditions are met:
         above copyright notice, this list of conditions and 
         the following disclaimer in the documentation and/or 
         other materials provided with the distribution.
-    3. Neither the name of the Plabajo nor the names 
+    3. Neither the names of the Glen Henri J. De Cauwsemaecker
+        and Elizabeth C. Gonzales Belsuzarri nor the names 
         of its contributors may be used to endorse or promote 
         products derived from this software without specific 
         prior written permission.
@@ -28,6 +29,7 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
 LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN 
 ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
-POSSIBILITY OF SUCH DAMAGE. PLABAJO ACCEPTS NO LIABILITY FOR
+POSSIBILITY OF SUCH DAMAGE. GLEN HENRI J. DE CAUWSEMAECKER AND
+ELIZABETH C. GONZALES BELSUZARRI ACCEPT NO LIABILITY FOR
 ANY INJURIES OR EXPENSES SUSTAINED IN THE ACT OF FULFILLING ANY OF 
 THE ABOVE TERMS AND CONDITIONS, ACCIDENTAL OR OTHERWISE.
